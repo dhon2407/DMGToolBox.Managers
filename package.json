@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.dmgtoolbox.managers",
+  "displayName": "Custom managers package",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "licensesUrl": "See LICENSE.md",
+  "author": {
+    "name": "Dan the Dev",
+    "email": "jessiedaniel7@gmail.com"
+  },
+  "description": "Managers package.",
+  "dependencies": {
+  },
+  "keywords": [
+    "Utility",
+    "Tool"
+  ]
+}
